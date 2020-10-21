@@ -2,16 +2,15 @@ import React from "react";
 import PropTypes from "prop-types";
 import {
   FacebookShareButton,
-  GooglePlusShareButton,
-  LinkedinShareButton,
+  PinterestShareButton,
   TwitterShareButton,
+  TelegramShareButton,
   FacebookShareCount,
-  GooglePlusShareCount,
-  LinkedinShareCount,
+  PinterestShareCount,
   FacebookIcon,
   TwitterIcon,
-  GooglePlusIcon,
-  LinkedinIcon
+  PinterestIcon,
+  TelegramIcon,
 } from "react-share";
 
 import config from "../../../content/meta/config";
@@ -45,17 +44,17 @@ const PostShare = props => {
           >
             <TwitterIcon round size={iconSize} />
           </TwitterShareButton>
-          <GooglePlusShareButton
+          <PinterestShareButton
             url={url}
             additionalProps={{
-              "aria-label": "Google share"
+              "aria-label": "Pinterest share"
             }}
           >
-            <GooglePlusIcon round size={iconSize} />
-            <GooglePlusShareCount url={url}>
+            <PinterestIcon round size={iconSize} />
+            <PinterestShareCount url={url}>
               {count => <div className="share-count">{filter(count)}</div>}
-            </GooglePlusShareCount>
-          </GooglePlusShareButton>
+            </PinterestShareCount>
+          </PinterestShareButton>
           <FacebookShareButton
             url={url}
             quote={`${title} - ${excerpt}`}
@@ -68,19 +67,16 @@ const PostShare = props => {
               {count => <div className="share-count">{filter(count)}</div>}
             </FacebookShareCount>
           </FacebookShareButton>
-          <LinkedinShareButton
+          <TelegramShareButton
             url={url}
             title={title}
             description={excerpt}
             additionalProps={{
-              "aria-label": "LinkedIn share"
+              "aria-label": "Telegram share"
             }}
           >
-            <LinkedinIcon round size={iconSize} />
-            <LinkedinShareCount url={url}>
-              {count => <div className="share-count">{filter(count)}</div>}
-            </LinkedinShareCount>
-          </LinkedinShareButton>
+            <TelegramIcon round size={iconSize} />
+                     </TelegramShareButton>
         </div>
       </div>
 

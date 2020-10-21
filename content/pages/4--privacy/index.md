@@ -1,9 +1,14 @@
 ---
 title: Privacy Policy
 ---
+<hr>
 
-Rviverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+ We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies,
+ which you can turn off at any time by modifying your Internet browser's settings. We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission.
+ This privacy policy is subject to change without notice.
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+<hr>
 
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+Kami tidak membagikan informasi pribadi dengan pihak ketiga dan kami tidak menyimpan informasi yang kami kumpulkan tentang kunjungan anda ke blog ini untuk digunakan selain untuk menganalisis kinerja konten melalui penggunaan cookies,
+yang dapat anda matikan setiap saat dengan memodifikasi peramban/ browser Internet anda di menu pengaturan. Kami tidak bertanggung jawab atas publikasi ulang konten yang ditemukan di blog ini di situs web atau media lain tanpa izin kami.
+Kebijakan privasi ini dapat berubah tanpa pemberitahuan.
